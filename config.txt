@@ -1,0 +1,3 @@
+
+[database]
+con = mysql+pymysql://elarte_MySQL:elarte_MySQL@jp02new.tmd.cloud/elarte_python
